@@ -1,3 +1,3 @@
 public class Win_condition {
-    private int cislo;
+    private int number;
 }
