@@ -4,5 +4,6 @@ public class Main {
 
         Player player = new Player();
         Playing_field playing_field = new Playing_field();
+        playing_field.place_shape();
     }
 }
