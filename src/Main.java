@@ -3,6 +3,6 @@ public class Main {
         System.out.println("Hello world!");
 
         Player player = new Player();
-        Playing_field playing_field = new Playing_field(new char[3][3]);
+        Playing_field playing_field = new Playing_field();
     }
 }
